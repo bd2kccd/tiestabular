@@ -1,0 +1,753 @@
+code,name
+C0006663,Tissue calcification NOS
+C0279759,progesterone receptor positive
+C0444498,In situ
+C0332307,With type
+C0193959,Tonsillectomy and adenoidectomy
+C0007124,Ductal carcinoma in situ
+C0205145,Site
+C0439580,Synchronous
+C0221228,Comedo
+C0006826,Cancer (NOS)
+C1298907,Yes
+C0332397,pN1 category
+C0475447,Site of primary tumor
+C0375111,"Neoplasm of unspecified nature, site unspecified"
+C1290905,Discrepancy
+C0332152,Status pre-
+C0475445,Site of neoplasm
+C1292711,Part of
+C0677944,Sentinel node
+C0041582,Ulcer NOS
+C0205284,Marginal
+C1314939,Involved
+C0205094,Anterior
+C0018681,Headache
+C0439178,% positive cells
+C0562297,Examination of lymph nodes
+C1123023,Skin structure
+C0007099,Carcinoma in situ
+C0205281,Invasive
+C0205396,identified
+C0443196,Definitive
+C0221928,Dermis
+C1269794,Status of margin involvement by tumor
+C0030185,Paget's disease of the breast
+C0686619,Metastases to lymph nodes
+C0441987,Side
+C1301886,Diameter
+C1320480,Pathologic stage
+C0439792,Extending
+C0441989,Ipsilateral
+C0443268,Nodal
+C1422411,"POLYMERASE (DNA-DIRECTED), DELTA 4"
+C0229755,Structure of parasternal lymph node
+C0205156,Previous
+C0442834,Atypical ductal hyperplasia
+C0025320,Menopausal
+C0796693,Sentinel node biopsy
+C0444330,Slide
+C1879489,Measures
+C1384494,Metastatic carcinoma
+C0230337,Structure of right axillary region
+C0024204,Structure of lymph node
+C0205183,Benign
+C0205447,1
+C0206650,Fibroadenoma
+C0028109,Nipple structure
+C0020507,Hyperplasia
+C0334002,Stromal hyperplasia
+C2931031,Pseudoangiomatous stromal hyperplasia
+C0028259,Nodule
+C0242485,Measurement
+C0392747,modifies
+C0439743,Multicentric
+C0439806,Gross
+C1282910,Superior
+C0193842,Biopsy lymph gland
+C0004454,Axillary
+C0220797,pathology
+C0439810,Total
+C0231448,Extension
+C0475276,Tumor volume
+C0205417,Lobular
+C1134719,Invasive ductal breast carcinoma
+C0024886,Simple mastectomy
+C0205125,Depth
+C0014599,Epithelial hyperplasia
+C0222600,Right breast structure
+C0205292,Multifocal
+C0189396,Bronchoscopy with biopsy
+C0205288,Microscopic
+C1302461,Multifocal tumor
+C0332285,In
+C0728940,Excision
+C0026255,Mitosis
+C1561607,Overall
+C0205616,Moderately differentiated
+C0006141,Breast
+C0861352,Lobular neoplasia
+C0205182,Atypical
+C1266028,"Ductal carcinoma in situ, solid type"
+C0205091,Left
+C0205277,Loculated
+C0222601,Left breast structure
+C0243161,criterion
+C0205101,External
+C0439165,percent
+C0543467,Surgery
+C0007097,Carcinoma
+C0475440,Tumor size
+C0678222,Breast carcinoma NOS
+C0205090,Right
+C0229985,Surgical margins
+C0439534,Dimensions
+C0450429,Location
+C0806909,maxima
+C0853879,Breast cancer invasive NOS
+C0205418,Aggregate
+C1515051,sum
+C0450415,Lateral to the right
+C1282913,circle
+C1718420,Tubule formation
+C0011008,Date
+C1709940,Reviewed
+C0439064,Numerous
+C0193867,Axillary lymphadenectomy
+C1272644,Fibrocystic change
+C0441962,N1 category
+C0475373,T2 category
+C0024883,Modified radical mastectomy
+C0441647,Repair of peripheral nerve by tubulation
+C0687060,Margin (external anatomical feature)
+C0206713,Intraductal papilloma
+C0205307,Normal
+C0449820,Scores
+C1849615,Calcifications (atrial and ventricular endocardium)
+C0332281,Associated with
+C0024884,Radical mastectomy
+C0441994,Lower
+C0205146,Area
+C0439787,Out
+C0205452,Six
+C1134719,"Carcinoma, Ductal, Breast"
+C0456389,Size
+C0460004,Head and neck structure
+C0026019,Electron microscopy
+C0027627,Metastasis
+C0014520,Epidermis structure
+C0011646,Dermis structure
+C0542339,Inferior
+C0221925,Stratum germinativum
+C0040300,Body tissue structure
+C0205393,Most
+C1306372,Mass
+C1269795,Margin closest to tumor
+C0024296,Lymphocytic tissue structure
+C0444667,Whole
+C0001418,Carcinoma in adenoma
+C0450414,Lateral to the left
+C1521733,Pathologic
+C1518437,Nuclear pleomorphism
+C1176475,"Carcinoma, Ductal [Disease/Finding]"
+C0439176,% of total activity
+C0032219,Pleomorphism
+C0398434,Axillary lymph node biopsy
+C0553989,Excisional biopsy of lymph node
+C0021358,Structure of inferior colliculus of corpora quadrigemina
+C0184921,Excision biopsy
+C1269955,Tumour invasion
+C0027551,Needle
+C0024885,"Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy)"
+C0449768,Measured to
+C0392752,Localized
+C0334277,"Adenocarcinoma, metastatic"
+C0036525,Metastatic to
+C0027540,Necrosis NOS
+C0016059,Fibrosis NOS
+C1301128,Biopsy site
+C0334050,Adenosis
+C0332126,No treatment required for
+C0231162,Normal general body function
+C0403555,Ochoa syndrome
+C0332304,Laterality
+C0439282,nmol/L
+C0152277,Incisional drainage
+C0441959,N0 category
+C1823437,TRANSMEMBRANE PROTEIN 173
+C4017414,"SERPIN PEPTIDASE INHIBITOR, CLADE A, MEMBER 1"
+C0205435,First
+C0919414,0
+C0522511,With size
+C0012751,Distance
+C0521174,Microcalcification
+C0449468,Volume
+C0221908,"Epithelium, NOS"
+C1518982,PerineuralRoute
+C2733271,Excision of sentinel lymph node
+C0230338,Structure of left axillary region
+C0023931,Osteogenesis imperfecta type I
+C0425932,Date of last menstrual period
+C0011209,Delivery
+C1704322,Spatial orientation
+C0032790,Postoperative period
+C0024671,Mammography
+C1298805,Routine procedure
+C0038969,Surgical suture
+C0024103,Breast mass NOS
+C0205103,Intermediate
+C1292724,Procedural approach
+C0205231,Extensive
+C1552923,square mile
+C1272751,Able to and does
+C0007876,Cesarean Delivery Procedures
+C0205448,2
+C1444703,Definitely present
+C2584899,Date of procedure
+C0006142,Breast cancer NOS
+C0205166,Long
+C0405352,Biopsy of breast
+C0445247,Same
+C0242957,"Genes, erbB-2"
+C0037083,Signal transduction
+C0007709,Centromere
+C0008633,Chromosome
+C0456603,Ratio
+C1273517,Used by
+C0012854,Deoxyribonucleic acid
+C0162789,FISH test
+C0220825,Investigation
+C0243073,analysis
+C0426241,Membranes complete
+C0884358,Performed
+C0205189,Borderline
+C0597032,Neoplastic cells
+C1441672,Observe
+C0205081,Moderate
+C1762617,Weak
+C0332448,Infiltration
+C0205341,Repeat
+C0234621,Visual
+C0392148,Presence
+C0521095,Determined by
+C0205555,Special
+C0021067,immunoperoxidase
+C1331475,Has development
+C0022885,Lab test
+C0007589,Cell Differentiation
+C0547043,Up
+C0205093,Lateral
+C0229985,Margins of Excision
+C0439232,minute
+C0018180,Granulation tissue
+C1318309,Core needle biopsy
+C0231290,Status post
+C0333504,Focal necrosis
+C0228327,Structure of reuniens nucleus of thalamus
+C0443302,Several
+C1510438,Assay technique
+C0521097,Cleared by
+C0205540,Approved
+C0334227,"Tumor cells, malignant"
+C1260957,Blue color
+C0443289,Revealed
+C0733755,position
+C0205436,Second
+C0016741,Frozen Sections
+C0456904,Intraoperative
+C0729594,Axillary lymph node structure
+C1947977,ellipse
+C0004238,Atrial fibrillation
+C0024202,Lymph
+C1425014,"NUDE, A. NIDULANS, HOMOLOG OF, 1"
+C1801960,Vascular
+C0019080,Extravasation blood
+C0205394,Other
+C1279048,Entire axillary lymph node
+C0037286,Skin neoplasm NOS
+C1609982,Residual
+C2732830,Intramammary lymph node group
+C0007610,"Nucleus, NOS"
+C0015668,Fat necrosis NOS
+C0205099,Central
+C0205253,Immediate
+C0205234,Focal
+C1272683,Requested
+C1424211,"MELANOMA ANTIGEN, FAMILY D, 2"
+C0444868,all
+C0332246,Sliding
+C0079240,Dilution
+C1720148,As directed for
+C2607943,diagnosis
+C0521124,Against
+C0178719,Intracellular
+C1961099,T-cell type acute leukemia
+C0521164,Annular shape
+C0206696,Signet-ring cell carcinoma
+C0238767,Right and left
+C0205617,Poorly differentiated
+C0439738,Four quadrants
+C0812425,Mitotic index
+C1265765,Duct ectasia
+C1112166,Nipple neoplasm
+C1947935,Not free of
+C0205117,Juxta-posed
+C0442152,Permeatal approach
+C0346041,Tumor of the dermis NOS
+C0012359,Dilatation
+C1956097,Wolf-Hirschhorn syndrome
+C0439605,Random
+C0332232,Approximate
+C0205451,5
+C0206695,Neuroendocrine carcinoma
+C0029401,Osteitis deformans
+C0332219,Easy
+C0332206,blocks
+C0205082,Severe
+C0334370,Comedocarcinoma
+C0205402,Prominent
+C0522498,Rare
+C0334369,"Comedocarcinoma, noninfiltrating"
+C0205462,Histologic
+C0205122,Segmental
+C0205314,New
+C0038917,Surgical clip
+C0205238,True
+C0205233,Firm
+C0441635,Segment
+C0025255,Membranes
+C1300586,Tumor focality
+C1299477,Tubule formation score
+C1292722,Has specimen
+C0220899,surgery
+C0439851,Direct
+C1264693,Arbitrary
+C0432252,Osteoporosis-pseudoglioma syndrome
+C0332286,Into
+C0235590,Adenosis sclerosing
+C0589500,Retrograde
+C0333633,Hemosiderin-laden macrophage
+C0728938,Partial
+C0222150,Skin structure of nipple
+C1300819,Hemorrhagic tumor
+C0439855,Complex
+C0149537,Entire areola of nipple
+C0175668,Secondary
+C0205219,Diffuse
+C0205282,Malignant
+C0205449,3
+C0425801,Large nipple
+C1285105,Duct (organ part)
+C0039593,diagnosis
+C0037189,Structure of sinoatrial node
+C1274040,Result
+C0205875,Papillomatosis
+C1423027,"DNAJ/HSP40 HOMOLOG, SUBFAMILY B, MEMBER 6"
+C0445204,Preoperative
+C1272695,Done
+C0149538,Skin structure of breast
+C0205098,Medial
+C0333275,Hemorrhagic
+C0443224,Fresh
+C2585542,specimen received
+C0222617,Mammary lobule structure
+C1524057,Compatible with
+C0205358,Soft
+C0221205,Yellow
+C0205430,Mixed
+C0027912,Neurosecretory Systems
+C0205170,Good
+C0007130,Mucinous carcinoma
+C0332257,has part
+C1532464,tuberculin unit
+C0023652,Lichen sclerosus et atrophicus
+C0439712,With pattern
+C0449208,THO
+C1998371,Mastectomy of left breast
+C0741302,Atypical
+C0205458,Twelve
+C0439234,year
+C1513276,Neoplasm Micrometastasis [Disease/Finding]
+C0002989,Epithelioid hemangioma of skin
+C0279563,Lobular breast carcinoma (in situ)
+C0332208,Tubular
+C0007095,Carcinoid tumour NOS
+C0205312,Papillary
+C0206692,Lobular carcinoma of breast
+C0001629,Adrenal medulla structure
+C0008767,Scarring
+C0030354,Papillomata
+C0302891,Native
+C0439807,Radical
+C0184913,Reexcision
+C0011860,NIDDM
+C0205172,More
+C0549177,Large
+C0549184,None
+C0179038,Analyzer
+C2733493,Number of sentinel lymph nodes examined
+C0332128,Examined for
+C0015282,Exocrine gland structure
+C0442182,Subareolar
+C0459571,Medial orbital margin
+C0332122,No history of
+C0012737,Dissection - action
+C0205210,Clinical
+C1539112,"CORNICHON, DROSOPHILA, HOMOLOG OF, 2"
+C0003737,Architecture as Topic
+C0542537,Poor - grade
+C0205513,Medial approach
+C0677512,Closed approach
+C0229473,Cell of Claudius
+C0334384,Mixed ductal lobular breast carcinoma
+C1562749,Cell feature
+C0205151,Capsular
+C0441948,S+ extensive
+C0007634,Cell structure
+C0442730,Weakly positive
+C0969625,methods
+C0005507,Bioassay
+C0087111,Therapeutic procedure
+C0332298,Controlled by
+C1444656,Indicated
+C1268091,Breast part
+C1297883,Radial scar
+C1292769,B-cell type acute leukaemia NOS
+C0205169,Bad
+C1704746,BIA
+C1719822,Follow
+C0497153,No disease
+C1522475,IntradermalRoute
+C0442821,Strong
+C0677850,Adjuvant therapy
+C0442824,Very
+C2697304,Skin removal
+C0036429,Sclerosis
+C0278403,Subcutaneous tissue structure
+C0439208,gram
+C0221198,Lesion
+C2733494,Number of lymph nodes examined
+C0341139,Lower esophageal muscular ring
+C0445079,Node stage N2a
+C1268676,Radiographic calcification
+C0459572,Lateral orbital margin
+C0205330,Punctate
+C0225331,Fibrous tissue
+C0018599,Hard
+C1457900,Each
+C0205471,Cytologic
+C0277786,Complaint
+C0205369,Specific
+C0332396,pN0 category
+C0332392,pT2 category
+C1300601,Tumor measureable
+C1517565,IntratumorRoute
+C0332299,Suggestive of
+C0545528,Lower outer quadrant of female breast
+C0559248,Modified radical
+C0332149,Possible
+C0678226,Due to
+C0037299,Ulcer skin
+C1536500,ACETYL-CoA ACETYLTRANSFERASE 1
+C0750480,count
+C0443131,Accurate
+C0205197,Complete
+C0260037,Multiple tumors
+C0017526,Multinucleate giant cell
+C0205152,Subcapsular
+C1563743,Adipositas
+C1279482,Entire axillary soft tissues
+C0333428,Inflammatory fat necrosis
+C1276778,Nottingham Combined Grade
+C0578033,Temperature-associated finding
+C1546400,labor and delivery
+C1690016,% vol
+C0034897,Recurrence
+C0750572,Estimated
+C0332283,Followed by
+C0021044,Immunohistochemistry
+C0442835,Atypical lobular hyperplasia
+C0332261,Spread
+C2919427,Classic lobular carcinoma in situ
+C0014239,Endoplasmic reticulum
+C0439658,Classic
+C1074110,Nia
+C0024485,MRI
+C0037088,Clinical finding
+C0041618,Ultrasound
+C0600558,Neoadjuvant therapy
+C0085594,Fever chills
+C0449438,status
+C1522508,Details
+C1514811,reference
+C0205297,Nodular
+C0016504,Foot structure
+C0332241,Equivocal
+C0449453,Lesion size
+C0449685,Site of lesion
+C0449791,Number of lesions
+C0079399,Gender
+C0205127,Longitudinal
+C1272706,Interval
+C0205148,Surface
+C0184905,Bisection
+C0559956,Replacement - action
+C0439510,times/hour
+C1298770,No lymph node submitted
+C0332585,Pink color
+C0332148,Probable diagnosis
+C0001527,Yellow fat
+C0205171,Singular
+C1299487,Patient name
+C1458155,Breast neoplasm
+C0567498,Breast normal
+C1260956,Red color
+C0332583,Green color
+C1563922,Cold Ischemia
+C1521827,Preparation
+C0225317,Soft tissue
+C0439794,Dense
+C0205429,Uninvolved
+C0205115,Afferent
+C0205411,Adequate
+C0577559,Mass
+C0205410,Sufficient
+C2004491,Scar
+C0752050,Structure of anteroventral nucleus of thalamus
+C1806781,Short
+C0443208,Dull
+C0027498,Nausea and vomiting symptoms
+C0222608,Areola structure
+C0231435,"Mobility, NOS"
+C0332479,Shape finding
+C0175722,Clip
+C0439227,hour
+C0332282,Following
+C0085184,Tissue Embedding
+C0042153,utilization
+C4016326,PLATELET-ENDOTHELIAL CELL ADHESION MOLECULE 1
+C1383501,Cytoplasmic matrix
+C0037207,"Genes, sis"
+C1845293,"DIAPHANOUS, DROSOPHILA, HOMOLOG OF, 2"
+C0014257,Endothelium
+C0040223,Time
+C0014260,"Endothelium, Lymphatic"
+C1414052,"DEIODINASE, IODOTHYRONINE, TYPE II"
+C0487602,Staining method
+C1264637,Substance amount
+C0205168,Thin
+C0442041,Sinusoidal
+C0547040,minimal
+C0237753,Number
+C1317250,Collection date
+C1261077,Structure of left lower lobe of lung
+C1418986,PSEN2 gene
+C1266901,Upper inner quadrant of left breast
+C2587213,Control
+C0002938,Aneuploidy
+C0032578,Polyploidy syndrome
+C0021798,Interphase
+C1417874,NUCLEOBINDIN 1
+C0017337,gene
+C0205450,Four
+C1299583,Independent
+C1408674,"Developmental testing, (includes assessment of motor, language, social, adaptive, and/or cognitive functioning by standardized developmental instruments) with interpretation and report"
+C0443211,Established
+C0205420,ActRelationshipConcurrentWith
+C0587267,Closed
+C0222603,Female mammary gland structure
+C1413929,ENOYL-CoA DELTA ISOMERASE 1
+C0191877,Mastectomy bilateral
+C0040289,Tissue expander
+C1883719,Insertion
+C0919524,ATM
+C0205251,Low
+C0334381,Lobular carcinoma in situ
+C0205645,Tubular adenocarcinoma
+C0039070,Passed out
+C0442726,Detected
+C0019196,Hepatitis (non-A non-B)
+C0025329,Normal menstrual cycle
+C0441889,Levels
+C0205379,Visible
+C0205132,Linear
+C0439737,Left lower quadrant
+C1414478,MYELIN PROTEIN ZERO-LIKE 2
+C0225332,Fibrocyte
+C0443299,Separate
+C0205250,High
+C0205618,Undifferentiated
+C0205615,Well differentiated
+C0521091,Confirmation of
+C0012358,D & C
+C0008644,"Chromosomes, group A"
+C1292718,Is a
+C0439508,/year
+C1416990,MAL-LIKE
+C0014180,Endometrial structure
+C0227837,Endocervical structure
+C0010468,Curettage
+C0205395,Miscellaneous
+C0265962,Netherton's syndrome
+C0547044,Lesser
+C0332437,Associated morphology
+C0024203,Lymphadenectomy
+C0333562,Deposition
+C0545527,Upper outer quadrant of female breast
+C0032529,Genetic polymorphism
+C0475264,Localization - action
+C0449774,Pattern
+C0475371,T0 category
+C0470187,Availability of
+C1720176,Upon
+C1997850,Mastectomy of right breast
+C0162788,In-situ hybridization
+C1632850,Apply
+C0016318,Fluorescent identification of anti-nuclear antibody
+C0558288,As required
+C0205102,Internal
+C1632851,Times
+C0220797,pathology
+C0220784,Anatomic
+C0085185,Paraffin embedding
+C1266089,Metaplastic carcinoma
+C0887866,Arteriosclerosis Moenckeberg-type
+C0003850,Arteriosclerosis
+C0205195,Combined
+C0521116,Current
+C0343844,Siti
+C1719884,"Papillary carcinoma, solid"
+C0333994,Intraductal hyperplasia
+C1300072,Tumor stage
+C0225336,Endothelial cell
+C1282914,Surrounding
+C0332523,Retraction
+C1305124,Entire gland (organ)
+C0007471,Cauterization
+C0851238,Breast lump excision
+C1027182,Thermales
+C1280500,Effect
+C1266022,Cribriform carcinoma in situ
+C1562928,Progesterone receptor positive tumor
+C1562312,Estrogen receptor positive tumor
+C0334036,Apocrine metaplasia
+C0474496,Diarrhea and vomiting
+C0796021,Lowry-Wood syndrome
+C0500531,Right internal mammary artery
+C0021149,Incidence
+C0444507,Incidental
+C0018916,Hemangioma
+C0333629,Hemosiderin pigmentation
+C1265979,Reactive fibrosis
+C0243070,abnormalities
+C0242692,Skeletal muscle structure
+C1853687,MEGAKARYOBLASTIC LEUKEMIA 1 GENE
+C0179686,Cast
+C1865285,Macrocephaly-capillary malformation
+C0221423,Sickness
+C0184987,Plastic repair with shortening
+C0439544,Definite
+C0449644,Site of (a-h)
+C0025568,Metaplasia
+C0205454,8
+C0014609,Epithelium
+C0005847,Blood vessel structure
+C0333491,Medial calcification
+C1547325,pending
+C0031437,phenotype
+C0445223,Related
+C2732747,Infiltrating carcinoma with ductal and lobular features
+C1269047,Entire lymph node
+C0677862,Biopsy sample
+C0183683,Support
+C0205112,Basal
+C0334346,Apocrine adenocarcinoma
+C0020699,Hysterectomy Procedures
+C0449807,Number of biopsies
+C1300513,"Tumor size, invasive component"
+C0017160,Gastroenteritis
+C1300886,Surgical margin involved by in situ carcinoma
+C0279756,estrogen receptor negative
+C1333542,FGFR2 gene
+C1285847,Size of lymph node
+C0205453,7
+C0205136,Over
+C1836438,Familial neurocardiogenic syncope
+C0026845,Muscle tissue
+C3277202,"MYOSIN, HEAVY CHAIN 11, SMOOTH MUSCLE"
+C0439539,Heavy sensation quality
+C0522499,Palpable
+C0332391,pT1 category
+C0443286,Reaction
+C1444079,Focal chronic inflammation
+C1367969,Squamous metaplasia
+C0700321,Small
+C0332558,Calcified nodule
+C0021368,Inflammations
+C0442175,Retromammary
+C0238034,Intraductal papilloma of breast
+C0205283,Contiguous
+C0205352,Simple
+C1416870,"LIPASE, ENDOTHELIAL"
+C1366500,PROGESTERONE RECEPTOR
+C1416431,"INTERNEXIN, ALPHA"
+C0205455,9
+C0042584,Vesicular Exanthema of Swine [Disease/Finding]
+C1824789,ZHANGFEI PROTEIN
+C0079588,STEROID SULFATASE
+C1299987,REPLACED BY
+C0000696,"Nerve Fibers, Myelinated"
+C1298180,Single tumor
+C0410173,"SARCOGLYCAN, GAMMA"
+C0442785,N5
+C0005558,Biopsy
+C0205370,Non-specific
+C0240526,Night time
+C1859452,"Osteodysplastic primordial dwarfism, type 1"
+C0037293,Skin tags
+C1532565,Microunit
+C1510483,Fine needle aspiration
+C0577581,No mass present
+C0007133,Papillary carcinoma
+C0444706,Measured
+C0507850,Wall of artery
+C0205392,Some
+C0205287,Membranous
+C0150866,Biopsy Procedures on the Skin
+C0175518,Structure of nucleus of tractus solitarius
+C0016034,Breast cystic fibrosis
+C0686906,No diagnosis
+C0425776,Position of the breast
+C0038925,Flap
+C0806020,Date stopped
+C0475374,T3 category
+C0441961,N3 category
+C0222613,Lactiferous duct structure
+C0205165,Minor
+C0205164,Major
+C2939172,Lymphocytic
+C1265603,Firm mass
+C0332196,Exclude
+C1317608,Perineural spread
+C0206693,Medullary carcinoma
+C0442116,Intramammary
+C0005978,Bone wire
+C0205100,Peripheral
+C0456680,mm/h
+C1522191,OticRoute
+C0439167,% activity
+C4015932,CARBONIC ANHYDRASE I
+C0205409,Isolated
+C0182400,Probe
+C0017256,Gene amplification
+C0423765,Skin staining
+C0332253,Evolving
+C0205160,Negative
+C0868928,Case
+C0026769,Sclerosis multiple
+C0332291,Independent of
+C1331262,Striated muscle (tissue)
+C0242697,myotube
+C1367453,"NUCLEAR RECEPTOR SUBFAMILY 4, GROUP A, MEMBER 1"
+C0162867,Tunica media vasorum
+C0040238,Tin
